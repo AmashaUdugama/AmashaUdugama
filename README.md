@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amashaudugama&label=Profile%20views&color=0e75b6&style=flat" alt="amashaudugama" /> </p>
 
-- 🔭 I’m currently working on **Test**
+- 🔭 I’m currently brefing a **Software engineering Degree**
 
 - 🌱 I’m currently learning **Flutter**
 
