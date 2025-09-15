@@ -13,6 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://github.com/AmashaUdugama" target="_blank">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="AmashaUdugama's GitHub" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
