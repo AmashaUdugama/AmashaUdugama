@@ -20,7 +20,7 @@
 <!-- Contact Me Section with Girl Animation -->
 <h3 align="left">Contact Me</h3>
 <p align="left">
-  <img src="https://media.giphy.com/media/3o6Zt8zb1GDoFFhRfy/giphy.gif" alt="Contact Girl Animation" width="90" height="90"/>
+
   <b>Email:</b> uamasha29@gmail.com <br>
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/amashaudugama/" target="_blank">Amasha Udugama</a>
 </p>
