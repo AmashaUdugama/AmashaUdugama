@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-🎓 <b>BSc (Hons) Software Engineering Undergraduate</b> at Cardiff Metropolitan University  
+🎓 <b>BSc (Hons) Software Engineering Undergraduate</b> at Cardiff Metropolitan University  </br>
 💻 Passionate about building <b>scalable software systems</b> | Exploring <b>Web, Mobile & SOA</b> | Strong focus on <b>OOP & Agile</b>  
 </p>
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🔥 GitHub Profile Overview  
+##                                                      🔥 GitHub Profile Overview  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmashaUdugama&theme=tokyonight" alt="GitHub Streak" height="165"/>
