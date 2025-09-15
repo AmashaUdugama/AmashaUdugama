@@ -4,13 +4,13 @@
     </a>
 </h1>
 ---
-# 👋 Hi, I'm Amasha Udugama  
+ 👋 Hi, I'm Amasha Udugama  
 
 🎓 **BSc (Hons) Software Engineering Undergraduate** at Cardiff Metropolitan University  
 💻 Passionate about building **scalable software systems** | Exploring **Web, Mobile & SOA** | Strong focus on **OOP & Agile**  
 
 ---
-<div style="text-align: right; padding-top: 70px; font-family: 'Ubuntu', sans-serif; font-size: 80px; font-weight: bold; color: #333; display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
+<div style="text-align: center; padding-top: 70px; font-family: 'Ubuntu', sans-serif; font-size: 80px; font-weight: bold; color: #333; display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
 <h5 style="color: #00BFFF;">Connect with me! 🌐</h5>
 <div style="display: inline-flex; gap: 20px;align: center;">
 <a href="https://www.linkedin.com/in/amasha-udugama" target="_blank" style="display: inline-block;">
@@ -35,7 +35,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AmashaUdugama&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
 </p> 
 
-<div align="center;font-family: 'Ubuntu', sans-serif; font-size: 80px; font-weight: bold; color: #333;"> Tech Stack💻 </div>
+<div align="center;font-family: 'Ubuntu', sans-serif; font-size: 80px; font-weight: bold; color: #333;text-align: center"> Tech Stack💻 </div>
 <div align="center">
   <h3>🗄️Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" />
@@ -56,6 +56,7 @@
 <p align="left" style="display: inline-block;">
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmashaUdugama&theme=github_light&timestamp=12345" alt="Your GitHub stats" style="display: inline-block;"/>
 </p>
+
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/AmashaUdugama/AmashaUdugama/output/snake.svg" alt="Snake animation" />
