@@ -51,10 +51,12 @@
   <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark"  />
   </p>
   <h3 align="center">🗄️ Frontend & Backend</h3>
+  <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman,mongodb,react&theme=dark"   />
-  
+  </p>
   <h3 align="center">🔧 Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" />
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" /></p>
 </p>
 
 
