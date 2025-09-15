@@ -10,20 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Generate Snake Animation
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: AmashaUdugama
           outputs: dist/snake.svg
 
+      # Push the generated SVG to 'output' branch
       - name: Push to output branch
         uses: ad-m/github-push-action@v0.6.0
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # required
           branch: output
-          folder: dist
+          directory: dist      # <-- use 'directory' instead of 'folder'
           force: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
