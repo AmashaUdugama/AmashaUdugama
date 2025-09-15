@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman,mongodb,react&theme=dark" />
   
   <h3>🔧 Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,webstorm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" />
 </div>
 
 --- 
