@@ -34,49 +34,19 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AmashaUdugama&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
 </p> 
-## <div align="left">🛠 Tech Stack💻 </div>
+<div align="left"> Tech Stack💻 </div>
 
 <div align="left">
-  <h3>💻 Programming Languages</h3>
+  <h3>🗄️Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" />
   
-  <h3>Frontend & Backend </h3>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman&theme=dark" />
+  <h3>🗄️Frontend & Backend </h3>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman,MongoDB,react&theme=dark" />
   
-  <h3>🗄️  Database</h3>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,postman,MongoDB&theme=dark" />
-  
-  <h3>🔧 Tools & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,NetBeans,Docker,Flutter&theme=dark" />
+  <h3>🔧Tools & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,NetBeans,Docker,Flutter,figma&theme=dark" />
 </div>
-
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;">
 <br/>
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; max-width: 100%; flex: 1; padding-left: 10px; padding-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="html5 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="css3 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" alt="react logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26" alt="java logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="python logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="26" alt="dart logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="26" alt="csharp logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="26" alt="mongodb logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26" alt="nodejs logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" alt="git logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="26" alt="flutter logo" />
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; padding-left: 10px; padding-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="26" alt="androidstudio logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="26" alt="vscode logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26" alt="docker logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="26" alt="mysql logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="26" alt="figma logo" />
-</div>
-
-<br/>
-
 <div align="right">
   <a href="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/assets/github.gif" target="_blank">
     <img src="assets/github.gif" alt="Creative Coder Animation" height="160" />
