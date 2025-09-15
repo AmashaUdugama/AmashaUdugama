@@ -42,18 +42,18 @@
 </p> 
 
 
-
+<p align="center">
 <h2 align="center">💻 Tech Stack</h2>
 
-<p align="center">
+
   <h3 align="center">🗄️ Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" alt="Centered Image" />
+  <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark"  />
   
   <h3 align="center">🗄️ Frontend & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman,mongodb,react&theme=dark" alt="Centered Image" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman,mongodb,react&theme=dark"  />
   
   <h3 align="center">🔧 Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" alt="Centered Image" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" />
 </p>
 
 
