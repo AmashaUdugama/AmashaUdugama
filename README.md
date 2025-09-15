@@ -62,21 +62,6 @@
 
 <br/>
 
-<div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
-  <div style="display: flex; justify-content: flex-end; gap: 12px;">
-    <img align="right" height="160" src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" alt="Coding animation" />
-  </div>
-</div>
-<div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
-  <div style="display: flex; justify-content: flex-end; gap: 12px;">
-    <img align="right" height="160" src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="Neon tech animation" />
-  </div>
-</div>
-<div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
-  <div style="display: flex; justify-content: flex-end; gap: 12px;">
-    <img align="right" height="160" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Laptop coding animation" />
-  </div>
-</div>
 
 
 <br/>
