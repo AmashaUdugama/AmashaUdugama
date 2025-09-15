@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AmashaUdugama/AmashaUdugama/main/snake.yml/output/snake.svg" alt="Snake animation" />
+
 </p>
