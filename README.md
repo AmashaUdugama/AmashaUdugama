@@ -33,19 +33,23 @@
 </p>  
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AmashaUdugama&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
-</p>  
-## 🛠 Tech Stack  
+</p> 
+## <div align="center">🛠️ Tech Arsenal 🛠️</div>
 
-**Languages**  
-`Java` `Python` `JavaScript` `Dart` `C#`  
+<div align="center">
+  <h3>💻 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" />
+  
+  <h3>Frontend & Backend </h3>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman&theme=dark" />
+  
+  <h3>🗄️  Database</h3>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,postman,MongoDB&theme=dark" />
+  
+  <h3>🔧 Tools & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,NetBeans,Docker,Flutter&theme=dark" />
+</div>
 
-**Frameworks & Tools**  
-`React` `Node.js` `Express` `Flutter` `Android Studio` `NetBeans` `Docker`  
-
-**Databases & Cloud**  
-`MySQL` `MongoDB` `Firebase`  
-
----
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;">
 <br/>
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; max-width: 100%; flex: 1; padding-left: 10px; padding-right: 10px;">
