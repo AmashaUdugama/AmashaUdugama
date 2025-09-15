@@ -60,5 +60,14 @@
 </p>
 
 
+<p align="center">
+    <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" height="500" />
+</p>
 
-<div align="center"> <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" height="500" /> </a> <p align="left" style="display: inline-block;"> <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmashaUdugama&theme=github_light&timestamp=12345" alt="Your GitHub stats" style="display: inline-block;"/> </p> <br clear="both"> <img src="https://raw.githubusercontent.com/AmashaUdugama/AmashaUdugama/output/snake.svg" alt="Snake animation" />
+<p align="center">
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmashaUdugama&theme=github_light&timestamp=12345" alt="Your GitHub stats"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AmashaUdugama/AmashaUdugama/output/snake.svg" alt="Snake animation" />
+</p>
