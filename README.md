@@ -10,12 +10,19 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **uamasha29@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/AmashaUdugama" target="_blank">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="AmashaUdugama's GitHub" width="40" height="40"/>
   </a>
+</p>
+
+<!-- Contact Me Section with Girl Animation -->
+<h3 align="left">Contact Me</h3>
+<p align="left">
+  <img src="https://media.giphy.com/media/3o6Zt8zb1GDoFFhRfy/giphy.gif" alt="Contact Girl Animation" width="90" height="90"/>
+  <b>Email:</b> uamasha29@gmail.com <br>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/amashaudugama/" target="_blank">Amasha Udugama</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
