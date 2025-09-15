@@ -62,6 +62,9 @@
 
 <br/>
 
+<div style="display: flex; justify-content: flex-end; gap: 12px;">
+  <img align="right" height="160" src="URL_OF_SELECTED_ANIMATION" alt="Creative Coder Animation" />
+</div>
 
 
 <br/>
