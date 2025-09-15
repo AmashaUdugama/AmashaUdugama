@@ -70,5 +70,6 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AmashaUdugama/AmashaUdugama/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/output/snake.svg
+" alt="Snake animation" />
 </p>
