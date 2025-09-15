@@ -62,9 +62,12 @@
 
 <br/>
 
-<div style="display: flex; justify-content: flex-end; gap: 12px;">
-  <img align="right" height="160" src="[![Lofi avatar / wallpaper](https://i.pinimg.com/75x75_RS/e9/2e/3d/e92e3dc9fab714eabc1d300f8ac8a934.jpg)](https://www.pinterest.com/pin/9640586697874086/)
-" alt="Creative Coder Animation" />
+<div style="display: flex; justify-content: flex-end;">
+  <a href="https://www.pinterest.com/pin/9640586697874086/" target="_blank">
+    <img src="https://i.pinimg.com/564x/e9/2e/3d/e92e3dc9fab714eabc1d300f8ac8a934.jpg" 
+         alt="Creative Coder Animation" 
+         height="160" />
+  </a>
 </div>
 
 
