@@ -43,19 +43,22 @@
   <h3>🗄️Frontend & Backend </h3>
   <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman,mongodb,react&theme=dark" />
   
-  <h3>🔧Tools & Frameworks</h3>
-  <img > src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" />
+  <h3>🔧 Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,webstorm&theme=dark" />
 </div>
 
----
-
- 
+--- 
 <div align="right">
     <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" height="500" />
   </a>
 
 </div>
 <br/>
+  <h3>🔧Tools & Frameworks</h3>
+  <img > src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" />
+</div>
+
+---
 
 <p align="left" style="display: inline-block;">
 <img height="115em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmashaUdugama&theme=github_dark&timestamp=12345" alt="Your GitHub stats" style="display: inline-block;"/>
