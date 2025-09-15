@@ -45,9 +45,11 @@
   
   <h3>🔧Tools & Frameworks</h3>
   <img > src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" />
-</div> 
----  
-  
+</div>
+
+---
+
+ 
 <div align="right">
     <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" height="500" />
   </a>
