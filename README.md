@@ -31,7 +31,7 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmashaUdugama&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>  
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AmashaUdugama&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
 </p>  
 
@@ -64,15 +64,22 @@
 
 <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
   <div style="display: flex; justify-content: flex-end; gap: 12px;">
-    <img align="right" height="160" src="https://media.tenor.com/lzb4ce_bNEYAAAAi/gwen-stacy-gwen.gif" />
+    <img align="right" height="160" src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" alt="Coding animation" />
+  </div>
+</div>
+<div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
+  <div style="display: flex; justify-content: flex-end; gap: 12px;">
+    <img align="right" height="160" src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="Neon tech animation" />
+  </div>
+</div>
+<div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
+  <div style="display: flex; justify-content: flex-end; gap: 12px;">
+    <img align="right" height="160" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Laptop coding animation" />
   </div>
 </div>
 
-<br/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AmashaUdugama&color=red" alt="Profile Views" />
-</p>
+<br/>
 
 <p align="left" style="display: inline-block;">
 <img height="115em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmashaUdugama&theme=github_dark&timestamp=12345" alt="Your GitHub stats" style="display: inline-block;"/>
