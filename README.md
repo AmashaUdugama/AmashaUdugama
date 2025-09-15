@@ -34,7 +34,18 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AmashaUdugama&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
 </p>  
+## 🛠 Tech Stack  
 
+**Languages**  
+`Java` `Python` `JavaScript` `Dart` `C#`  
+
+**Frameworks & Tools**  
+`React` `Node.js` `Express` `Flutter` `Android Studio` `NetBeans` `Docker`  
+
+**Databases & Cloud**  
+`MySQL` `MongoDB` `Firebase`  
+
+---
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;">
 <br/>
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; max-width: 100%; flex: 1; padding-left: 10px; padding-right: 10px;">
@@ -62,11 +73,12 @@
 
 <br/>
 
-<div style="display: flex; justify-content: flex-end;">
-  <a href="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github.mp4" target="_blank">
-    
+<div align="right">
+  <a href="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/assets/github.gif" target="_blank">
+    <img src="assets/github.gif" alt="Creative Coder Animation" height="160" />
   </a>
 </div>
+
 
 
 <br/>
