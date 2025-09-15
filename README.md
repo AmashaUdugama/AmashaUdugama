@@ -28,7 +28,7 @@
 
 ## 🔥 GitHub Profile Overview  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmashaUdugama&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>  
 <p align="center">
@@ -66,22 +66,6 @@
   <div style="display: flex; justify-content: flex-end; gap: 12px;">
     <img align="right" height="160" src="https://media.tenor.com/lzb4ce_bNEYAAAAi/gwen-stacy-gwen.gif" />
   </div>
-</div>
-
-<div style="text-align: right; padding-top: 70px; font-family: 'Ubuntu', sans-serif; font-size: 20px; font-weight: bold; color: #333; display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
-<h5 style="color: #00BFFF;">Connect with me! 🌐</h5>
-<div style="display: inline-flex; gap: 20px;">
-<a href="https://www.linkedin.com/in/amasha-udugama" target="_blank" style="display: inline-block;">
-<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="45" alt="linkedin logo" />
-</a>
-<a href="mailto:amasha.udugama@example.com" target="_blank" style="display: inline-block;">
-<img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" height="45" alt="gmail logo" />
-</a>
-<a href="https://github.com/AmashaUdugama" target="_blank" style="display: inline-block;">
-<img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" />
-</a>
-</div>
-<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap" rel="stylesheet">
 </div>
 
 <br/>
