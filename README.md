@@ -63,10 +63,8 @@
 <br/>
 
 <div style="display: flex; justify-content: flex-end;">
-  <a href="https://www.pinterest.com/pin/9640586697874086/" target="_blank">
-    <img src="https://i.pinimg.com/564x/e9/2e/3d/e92e3dc9fab714eabc1d300f8ac8a934.jpg" 
-         alt="Creative Coder Animation" 
-         height="160" />
+  <a href="https://github.com/AmashaUdugama/AmashaUdugama/blame/main/main/github.mp4" target="_blank">
+    
   </a>
 </div>
 
