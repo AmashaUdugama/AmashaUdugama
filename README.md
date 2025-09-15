@@ -44,8 +44,8 @@
   <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman,mongodb,react&theme=dark" />
   
   <h3>🔧Tools & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" />
- < align="right">
+  <img > src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" />
+  </div> < align="right">
   <a href="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" target="_blank">
     <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" height="160" />
   </a>
