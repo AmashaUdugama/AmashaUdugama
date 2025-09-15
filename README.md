@@ -34,9 +34,9 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AmashaUdugama&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
 </p> 
-## <div align="center">🛠️ Tech Arsenal 🛠️</div>
+## <div align="left">🛠 Tech Stack💻 </div>
 
-<div align="center">
+<div align="left">
   <h3>💻 Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" />
   
