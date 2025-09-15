@@ -63,7 +63,7 @@
 <br/>
 
 <div style="display: flex; justify-content: flex-end; gap: 12px;">
-  <img align="right" height="160" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="Creative Coder Animation" />
+  <img align="right" height="160" src="https://www.pinterest.com/pin/9640586697874086/" alt="Creative Coder Animation" />
 </div>
 
 
