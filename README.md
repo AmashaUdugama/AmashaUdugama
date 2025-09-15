@@ -3,19 +3,26 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Cookie&size=48&center=true&vCenter=true&width=700&height=70&duration=3000&pause=2000&color=8A2BE2&lines=Hey+it's+Amasha!;Software+Engineering+Undergraduate;Full-Stack+Developer;Tech+Enthusiast" />
     </a>
 </h1>
-<h1 align="center">
-    <a href="#" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Cookie&size=60&center=true&vCenter=true&width=500&height=70&duration=3000&pause=2000&color=FFFFFF&lines=Hey+it's+Amasha+Udugama!;+I'm+a+Software+Engineer;" />
-    </a>
-</h1>
 
 <br><br>
 
-<a href="#">
-<p align="left">
-  <img align="left" width="370" alt="🦑" src="https://gist.githubusercontent.com/AmashaUdugama/fake-placeholder/raw/general.svg" />
-</p>
-</a>
+# 👋 Hi, I'm Amasha Udugama  
+
+🎓 **BSc (Hons) Software Engineering Undergraduate** at Cardiff Metropolitan University  
+💻 Passionate about building **scalable software systems** | Exploring **Web, Mobile & SOA** | Strong focus on **OOP & Agile**  
+
+---
+
+## 🔥 GitHub Profile Overview  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmashaUdugama&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmashaUdugama&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmashaUdugama&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+</p>  
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;">
 <br/>
