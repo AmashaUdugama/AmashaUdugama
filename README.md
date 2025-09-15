@@ -12,7 +12,7 @@
 ---
 <div style="text-align: right; padding-top: 70px; font-family: 'Ubuntu', sans-serif; font-size: 20px; font-weight: bold; color: #333; display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
 <h5 style="color: #00BFFF;">Connect with me! 🌐</h5>
-<div style="display: inline-flex; gap: 20px;">
+<div style="display: inline-flex; gap: 20px;align: center;">
 <a href="https://www.linkedin.com/in/amasha-udugama" target="_blank" style="display: inline-block;">
 <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="45" alt="linkedin logo" />
 </a>
@@ -28,7 +28,7 @@
 
 ## 🔥 GitHub Profile Overview  
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmashaUdugama&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>  
 <p align="left">
@@ -36,7 +36,7 @@
 </p> 
 <div align="left;font-family: 'Ubuntu', sans-serif; font-size: 20px; font-weight: bold; color: #333;"> Tech Stack💻 </div>
 
-<div align="left">
+<div align="center">
   <h3>🗄️Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" />
   
@@ -48,20 +48,13 @@
 </div>
 
 --- 
-<div align="right">
+<div align="center">
     <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" height="500" />
   </a>
 
-</div>
-<br/>
-  <h3>🔧Tools & Frameworks</h3>
-  <img > src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" />
-</div>
-
----
 
 <p align="left" style="display: inline-block;">
-<img height="115em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmashaUdugama&theme=github_dark&timestamp=12345" alt="Your GitHub stats" style="display: inline-block;"/>
+<img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmashaUdugama&theme=github_dark&timestamp=12345" alt="Your GitHub stats" style="display: inline-block;"/>
 </p>
 
 <br clear="both">
