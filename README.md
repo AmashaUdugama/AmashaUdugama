@@ -31,7 +31,7 @@
 
 ---
 
-##                                                      🔥 GitHub Profile Overview  
+<h2 align="center" style="color:#00BFFF;">🔥 GitHub Profile Overview </h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmashaUdugama&theme=tokyonight" alt="GitHub Streak" height="165"/>
@@ -46,13 +46,13 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <h3>🗄️ Programming Languages</h3>
+  <h3 align="center">🗄️ Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" />
   
-  <h3>🗄️ Frontend & Backend</h3>
+  <h3 align="center">🗄️ Frontend & Backend</h3>
   <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman,mongodb,react&theme=dark" />
   
-  <h3>🔧 Tools & Platforms</h3>
+  <h3 align="center">🔧 Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" />
 </p>
 
@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmashaUdugama&theme=github_light&timestamp=12345" alt="Your GitHub stats"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmashaUdugama&theme=github_dark&timestamp=12345" alt="Your GitHub stats"/>
 </p>
 
 <p align="center">
