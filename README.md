@@ -65,7 +65,3 @@
     <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/github/main/github1.png" height="500" />
 </p>
 
-//<p align="center">
-//<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmashaUdugama&theme=github_dark&timestamp=12345" alt="Your GitHub stats"/>
-//</p>
-
