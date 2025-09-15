@@ -20,4 +20,4 @@
 
 
 Ready to collaborate on exciting projects and land that dream internship! Reach out and let's create something extraordinary! 💻
-© 2025 GitHub, Inc.
+
