@@ -3,15 +3,14 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Cookie&size=48&center=true&vCenter=true&width=700&height=70&duration=3000&pause=2000&color=8A2BE2&lines=Hey+it's+Amasha!;Software+Engineering+Undergraduate;Full-Stack+Developer;Tech+Enthusiast" />
     </a>
 </h1>
----
- 👋 Hi, I'm Amasha Udugama  
+
+👋 Hi, I'm Amasha Udugama  
 
 🎓 **BSc (Hons) Software Engineering Undergraduate** at Cardiff Metropolitan University  
 💻 Passionate about building **scalable software systems** | Exploring **Web, Mobile & SOA** | Strong focus on **OOP & Agile**  
 
----
 <div style="text-align: center; padding-top: 70px; font-family: 'Ubuntu', sans-serif; font-size: 80px; font-weight: bold; color: #333; display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
-<h5 style="color: #00BFFF;">Connect with me! 🌐</h5>
+<h5 style="color: #00BFFF; align:center;font-size: 80px">Connect with me! 🌐</h5>
 <div style="display: inline-flex; gap: 20px;align: center;">
 <a href="https://www.linkedin.com/in/amasha-udugama" target="_blank" style="display: inline-block;">
 <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="45" alt="linkedin logo" />
