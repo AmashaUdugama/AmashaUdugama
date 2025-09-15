@@ -59,7 +59,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" height="500" />
+    <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/github/main/github1.png" height="500" />
 </p>
 
 <p align="center">
