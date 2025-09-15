@@ -34,7 +34,7 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AmashaUdugama&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
 </p> 
-<div align="left"> Tech Stack💻 </div>
+<div align="left;font-family: 'Ubuntu', sans-serif; font-size: 20px; font-weight: bold; color: #333;"> Tech Stack💻 </div>
 
 <div align="left">
   <h3>🗄️Programming Languages</h3>
@@ -45,21 +45,12 @@
   
   <h3>🔧Tools & Frameworks</h3>
   <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" />
-  <div align="right">
+ < align="right">
   <a href="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" target="_blank">
     <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" height="160" />
   </a>
-</div>
-</div>
-<br/>
-<div align="right">
-  <a href="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" target="_blank">
-    <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" height="160" />
-  </a>
-</div>
 
-
-
+</div>
 <br/>
 
 <p align="left" style="display: inline-block;">
