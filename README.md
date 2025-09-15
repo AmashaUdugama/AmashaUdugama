@@ -41,15 +41,15 @@
   <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" />
   
   <h3>🗄️Frontend & Backend </h3>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman,MongoDB,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman,mongodb,react&theme=dark" />
   
   <h3>🔧Tools & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,NetBeans,Docker,Flutter,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,netbeans,docker,flutter,figma&theme=dark" />
 </div>
 <br/>
 <div align="right">
-  <a href="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/assets/github.gif" target="_blank">
-    <img src="assets/github.gif" alt="Creative Coder Animation" height="160" />
+  <a href="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" target="_blank">
+    <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" alt="Creative Coder Animation" height="160" />
   </a>
 </div>
 
