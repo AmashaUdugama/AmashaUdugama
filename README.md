@@ -63,7 +63,7 @@
 <br/>
 
 <div style="display: flex; justify-content: flex-end;">
-  <a href="https://github.com/AmashaUdugama/AmashaUdugama/blame/main/main/github.mp4" target="_blank">
+  <a href="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github.mp4" target="_blank">
     
   </a>
 </div>
