@@ -13,7 +13,7 @@
 💻 Passionate about building <b>scalable software systems</b> | Exploring <b>Web, Mobile & SOA</b> | Strong focus on <b>OOP & Agile</b>  
 </p>
 
----
+
 
 <h2 align="center" style="color:#00BFFF;">Connect with me! 🌐</h2>
 
@@ -29,7 +29,7 @@
 </a>
 </p>
 
----
+
 
 <h2 align="center" style="color:#00BFFF;">🔥 GitHub Profile Overview </h2>
 
@@ -41,22 +41,22 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AmashaUdugama&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
 </p> 
 
----
+
 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
   <h3 align="center">🗄️ Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" alt="Centered Image" />
   
   <h3 align="center">🗄️ Frontend & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman,mongodb,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postman,mongodb,react&theme=dark" alt="Centered Image" />
   
   <h3 align="center">🔧 Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,docker,flutter,figma,netbeans&theme=dark" alt="Centered Image" />
 </p>
 
----
+
 
 <p align="center">
     <img src="https://github.com/AmashaUdugama/AmashaUdugama/blob/main/main/github1.png" height="500" />
