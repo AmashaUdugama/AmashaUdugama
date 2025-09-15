@@ -63,7 +63,7 @@
 <br/>
 
 <div style="display: flex; justify-content: flex-end; gap: 12px;">
-  <img align="right" height="160" src="[PASTE_YOUR_GIF_URL_HERE](https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l)" alt="Creative Coder Animation" />
+  <img align="right" height="160" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="Creative Coder Animation" />
 </div>
 
 
